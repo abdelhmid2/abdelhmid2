@@ -81,13 +81,9 @@ I'm **Abdelhamid Ibrahim**, a Software Engineer who builds **web platforms, tool
 
 <div align="center">
 
-![Abdelhamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelhmid2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhmid2&layout=compact&theme=tokyonight)
+![Abdelhamid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelhmid2&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelhmid2&theme=tokyonight)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdelhmid2&theme=tokyonight&no-frame=true&margin-w=4)
 
 </div>
 
